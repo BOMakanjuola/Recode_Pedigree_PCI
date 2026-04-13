@@ -1,3 +1,4 @@
 # Recode_Pedigree_PCI
 This program is for reordering and recoding a pedigree to have a numerical order and to estimate the pedigree completeness index for each animal in the pedigree.
 Examples of the format of the required files are included 
+This is a python code 
